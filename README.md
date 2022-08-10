@@ -39,4 +39,12 @@ Install packages
 ```
 pip install -r requirements.txt
 ```
-### 3. 
+### 3. Open Jupyter notebook to run QA demo
+Add virtual environment to Jupyter notebook 
+```
+python -m ipykernel install --user --name=htx_demo
+```
+Launch Jupyter notebook
+```
+jupyter notebook
+```
