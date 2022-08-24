@@ -57,7 +57,7 @@ Add virtual environment to Jupyter notebook
 ```
 python -m ipykernel install --user --name=htx_demo
 ```
-Launch Jupyter notebook
+Launch Jupyter notebook (you may need to pip install jupyter if you do not have it)
 ```
 jupyter notebook
 ```
