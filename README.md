@@ -39,7 +39,20 @@ Install packages
 ```
 pip install -r requirements.txt
 ```
-### 3. Open Jupyter notebook to run QA demo
+### 3. Download Torch based on your machine requirements 
+https://pytorch.org/get-started/locally/
+
+I used this command: 
+```
+pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu113
+```
+
+### 4. Download Haystack 
+```
+pip install git+https://github.com/deepset-ai/haystack.git
+```
+
+### 5. Open Jupyter notebook to run QA demo
 Add virtual environment to Jupyter notebook 
 ```
 python -m ipykernel install --user --name=htx_demo
