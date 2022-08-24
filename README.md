@@ -15,7 +15,7 @@ For windows
 where virtualenv 
 ```
 
-If virtualenv is not found, then install it 
+If virtualenv is not found, then install it (you can also use pip3)
 ```
 pip install virtualenv
 ```
