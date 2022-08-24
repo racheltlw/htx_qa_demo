@@ -1,4 +1,16 @@
 ## QA quick start 
+
+## FOR COLAB
+
+Download the files from google drive to your local 
+https://drive.google.com/drive/folders/1cy9xAlZTfOCLhuNka4FncyV3x6JcYT2z?usp=sharing
+
+Open the QA_Single_Demo_Colab.ipynb file in this repo and click 'Open in Google Colab'
+
+Open the QA_Multi_Demo_Colab.ipynb file in this repo and click 'Open in Google Colab'
+
+## FOR VIRTUAL ENVIRONMENT
+
 Navigate to htx_qa_demo on your computer
 ```
 cd <yourpath>/htx_qa_demo
